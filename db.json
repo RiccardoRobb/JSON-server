@@ -46,7 +46,7 @@
             "name": "Forward messages",
             "features": [
                 "Select 1 target group (every message will be forwarded to your group)",
-                "In your group will be present a Bot that writes the messages from the target group"
+                "In your group there will be a Bot that forwards the messages from the target group"
             ],
             "price": "50€"
         },
