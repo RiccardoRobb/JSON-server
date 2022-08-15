@@ -12,7 +12,7 @@
             "name": "Auto-reposting messages",
             "icon": "fas fa-paper-plane",
             "iconColor": "green",
-            "description": "Forward messages from one group/channel to many groups"
+            "description": "Forward messages from one group/channel to your group"
         },
         {
             "id": "bots",
@@ -71,12 +71,12 @@
     "faq": [
         {
             "id": "faq-1",
-            "title": "It's possible to have a personalized plan?",
+            "title": "Is it possible to have a personalized plan?",
             "answer": "Sure, check the "
         },
         {
             "id": "faq-2",
-            "title": "What if there are fake members inside the Target group?",
+            "title": "What if there are fake members in the Target group?",
             "answer": "You can choose to select members with visible phone number."
         }
     ]
