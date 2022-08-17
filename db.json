@@ -27,7 +27,8 @@
             "id": "price-1",
             "name": "Add 1000 members",
             "features": [
-                "Select 3 target groups (we will add members from target groups to your group)",
+                "Select 3 target groups",
+                "we will add members from target groups to your group",
                 "Members will be added in 3 days (400 per day)"
             ],
             "price": "20€"
@@ -36,7 +37,8 @@
             "id": "price-2",
             "name": "Add 10000 members",
             "features": [
-                "Select up to 5 target groups (we will add members from target groups to your group)",
+                "Select up to 5 target groups",
+                "we will add members from target groups to your group",
                 "Members will be added in 25 days (400 per day)"
             ],
             "price": "190€"
@@ -45,7 +47,8 @@
             "id": "price-3",
             "name": "Forward messages",
             "features": [
-                "Select 1 target group (every message will be forwarded to your group)",
+                "Select 1 target group",
+                "every message will be forwarded to your group",
                 "In your group there will be a Bot that forwards the messages from the target group"
             ],
             "price": "50€"
